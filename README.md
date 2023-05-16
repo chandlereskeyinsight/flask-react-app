@@ -1,2 +1,3 @@
 # flask-react-app
-react and flask refresher
+simple todo list app to add and remove todos from a local db
+
